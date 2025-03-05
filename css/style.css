@@ -44,3 +44,53 @@ text-align: center;
 background: var(--main-href-color);
 box-shadow: 0px 0px 10px 0px rgba(111, 111, 111, 0);
 }
+.ourprojects {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none; }
+
+    .ourpriject {
+        list-style: none;
+        text-align: center;
+    }
+    .orpr {
+        list-style: none;
+        text-align: center;
+    }
+    .project {
+        display: flex;
+gap: 20px;
+list-style: none;
+    }
+    p {
+        color: var(--main-peh-color);
+    }
+
+    .our__job {
+        display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    }
+
+    .poslyga {
+        display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    }
+
+    .job {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        list-style: none;
+    }
+
+    .footer__nav {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        list-style: none;
+    }
